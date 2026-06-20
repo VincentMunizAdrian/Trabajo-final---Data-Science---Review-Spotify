@@ -275,4 +275,16 @@ Posibles extensiones del proyecto:
 
 ---
 
+## 📁 Estructura del Proyecto
+
+├── data/
+│   └── reviews.csv
+│
+├── notebooks/
+│   └── Spotify_Reviews_NLP_DL.ipynb
+│
+└── README.md
+
+---
+
 Proyecto desarrollado como Trabajo Final de NLP y Deep Learning para Ciencia de Datos.
